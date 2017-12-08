@@ -1,12 +1,3 @@
-# hello
-#testing
-#include <iostream>
+This is a c++ application used to check various steps towards a complete application
 
-using namespace std;
 
-void main()
-{
-  cout<<"hello"<<endl;
-  return 0;
-
-}
